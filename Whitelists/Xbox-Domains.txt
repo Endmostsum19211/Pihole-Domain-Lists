@@ -1,0 +1,13 @@
+# These domains are requred for certain Xbox live processes (Such as achievements) to function on Xbox consoles.
+
+attestation.xboxlive.comcert.mgt.xboxlive.com
+ctldl.windowsupdate.comdef-vef.xboxlive.com
+device.auth.xboxlive.comeds.xboxlive.com
+help.ui.xboxlive.comlicensing.xboxlive.commicrosoft.com
+notify.xboxlive.comsettings-win.data.microsoft.com
+title.auth.xboxlive.comtitle.mgt.xboxlive.com
+www.msftncsi.com
+v10.vortex-win.data.microsoft.com
+xbox.ipv6.microsoft.com
+xboxexperiencesprod.experimentation.xboxlive.com
+
