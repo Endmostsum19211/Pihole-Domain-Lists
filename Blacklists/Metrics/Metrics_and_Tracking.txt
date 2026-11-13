@@ -1,0 +1,3 @@
+# Blacklist for Metrics and Tracking.
+
+metrics.artillex-studios.com
