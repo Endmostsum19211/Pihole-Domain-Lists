@@ -1,0 +1,3 @@
+# Blocklist for Ads
+
+iadcontent.apple.com
